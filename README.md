@@ -1,6 +1,6 @@
-# Real_Estate_Rep
+# Capstone Two - Real Estate Predictions in California
 
-Table of Contents
+# Table of Contents
 	1. Loading the Data
 	2. Evaluating and Organizing the Data
 	3. Splitting the Data
